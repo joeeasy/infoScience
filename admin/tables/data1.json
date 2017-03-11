@@ -1,0 +1,51 @@
+[
+    {
+        "id": 0,
+        "Fname": "David",
+        "Lname": "Umolo",
+        "eAddress": "Dumolo@gmail.com",
+        "pWord": "..du123"
+    },
+    {
+        "id": 1,
+        "Fname": "David",
+        "Lname": "Umolo",
+        "eAddress": "Dumolo@gmail.com",
+        "pWord": "..du123"
+    },
+    {
+        "id": 2,
+        "Fname": "David",
+        "Lname": "Umolo",
+        "eAddress": "Dumolo@gmail.com",
+        "pWord": "..du123"
+    },
+    {
+        "id": 3,
+        "Fname": "David",
+        "Lname": "Umolo",
+        "eAddress": "Dumolo@gmail.com",
+        "pWord": "..du123"
+    },
+    {
+        "id": 4,
+        "Fname": "David",
+        "Lname": "Umolo",
+        "eAddress": "Dumolo@gmail.com",
+        "pWord": "..du123"
+    },
+    {
+       "id": 5,
+        "Fname": "David",
+        "Lname": "Umolo",
+        "eAddress": "Dumolo@gmail.com",
+        "pWord": "..du123"
+    },
+    {
+        "id": 6,
+        "Fname": "David",
+        "Lname": "Umolo",
+        "eAddress": "Dumolo@gmail.com",
+        "pWord": "..du123"
+    }
+]
